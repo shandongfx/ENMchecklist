@@ -1,5 +1,5 @@
 Workflow | Category | What to report | Your method | Your rationale
-| --- | --- |
+| --- | --- | --- | --- | --- |
 (A) Obtaining and processing occurrence data | metadata | (A1) source of occurrence data |  | 
  |  | (A2) download date; version of data source |  | 
  |  | (A3) basis of records |  | 
