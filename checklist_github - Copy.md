@@ -14,21 +14,21 @@ Workflow | Category | What to report | Your method | Your rationale
 |   |  | (B3) spatial resolution |  | 
 |   |  | (B4) temporal range |  | 
 (C) Model calibration | data input | (C1) modeling domain |  | 
- |  | (C2) number of background data |  | 
- |  | (C3) sampling method for background data |  | 
- |  | (C4) variable selection |  | 
- | algorithm | (C5) name |  | 
- |  | (C6) version of algorithm and software |  | 
- |  | (C7) parameterization |  | 
+|   |  | (C2) number of background data |  | 
+|   |  | (C3) sampling method for background data |  | 
+|   |  | (C4) variable selection |  | 
+|   | algorithm | (C5) name |  | 
+|   |  | (C6) version of algorithm and software |  | 
+|   |  | (C7) parameterization |  | 
 (D) Model transfer and evaluation | evaluation | (D1) evaluation index |  | 
- |  | (D2) threshold for evaluation index |  | 
- |  | (D3) dataset used to evaluate models |  | 
- | output | (D4) format/transformation |  | 
- |  | (D5) threshold |  | 
- | extrapolation | (D6) novelty of projected environments compared with training environments |  | 
- |  | (D7) collinearity shift between training and projected environments |  | 
- |  | (D8) extrapolation strategy |  | 
- | metadata | (D9) source |  | 
- |  | (D10) download date; version of data source |  | 
- |  | (D11) spatial resolution |  | 
- |  | (D12) temporal range |  | 
+|   |  | (D2) threshold for evaluation index |  | 
+|   |  | (D3) dataset used to evaluate models |  | 
+|   | output | (D4) format/transformation |  | 
+|   |  | (D5) threshold |  | 
+|   | extrapolation | (D6) novelty of projected environments compared with training environments |  | 
+|   |  | (D7) collinearity shift between training and projected environments |  | 
+|   |  | (D8) extrapolation strategy |  | 
+|   | metadata | (D9) source |  | 
+|   |  | (D10) download date; version of data source |  | 
+|   |  | (D11) spatial resolution |  | 
+|   |  | (D12) temporal range |  | 
