@@ -1,7 +1,7 @@
 ## Ecological Niche Modeling checklist (ENM checklist)     
 
 ### What is ENM checklist?  
-Reporting specific modeling methods and metadata is essential to the reproducibility of ecological studies, yet guidelines rarely exist regarding what information should be noted. Here, we provide a checklist - in effect a metadata standard - to guide studies in reporting at least the minimum information necessary for ecological niche modeling (ENM) reproducibility, offering a straightforward way to balance efficiency and accuracy. We encourage the ENM community, as well as journal reviewers and editors, to utilize and develop this framework further to facilitate and improve the reproducibility of future work. The proposed checklist framework is generalizable to other areas of ecology, especially those utilizing biodiversity data, environmental data, and statistical modeling, and could be adopted by a broader array of disciplines as well.  
+Reporting specific modeling methods and metadata is essential to the reproducibility of ecological studies, yet guidelines rarely exist regarding what information should be noted. Here, we provide a checklist - in effect a metadata standard - to guide studies in reporting at least the minimum information necessary for ecological niche modeling (ENM) reproducibility, offering a straightforward way to balance efficiency and accuracy. We encourage the ENM community, as well as journal reviewers and editors, to utilize and develop this framework further to facilitate and improve the reproducibility of future work.  
 
 ### How to use it?  
 -You can view it over here: [link] (https://github.com/shandongfx/ENMchecklist/blob/master/ENMchecklist.md)  
